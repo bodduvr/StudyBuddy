@@ -59,7 +59,7 @@ Efficient data retrieval and smooth navigation for enhanced user experience.
 A brief video demonstration showcasing the app's features and how it is used in the context of collaborative learning.
 
 *GitHub Repository:*
-[Link to GitHub Repository](https://github.com/your_username/studybuddy-app)
+[Link to GitHub Repository](https://github.com/bodduvr/StudyBuddy)
 
 *Instructions:*
 1. Clone or download the repository.
