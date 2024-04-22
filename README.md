@@ -72,8 +72,6 @@ A brief video demonstration showcasing the app's features and how it is used in 
 - Vineeth Kumar Boddu (M15887767)
 - Ravi Teja Reddy Machanuru (M15803658)
 
-*License:*
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 *Acknowledgements:*
 We would like to express our gratitude to our instructors and mentors for their guidance and support throughout the development process. Special thanks to the open-source community for their invaluable contributions and resources.
